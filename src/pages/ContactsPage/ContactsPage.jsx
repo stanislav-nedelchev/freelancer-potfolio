@@ -14,13 +14,13 @@ const ContactsPage = () => {
           <li className="content-list__item">
             <h2 className="title-2">Telegram / WhatsApp</h2>
             <p>
-              <a href="tel:+79051234567">+7 (905) 123-45-67</a>
+              <a href="tel:+380971234567">+38 (097) 123-45-67</a>
             </p>
           </li>
           <li className="content-list__item">
             <h2 className="title-2">Email</h2>
             <p>
-              <a href="mailto:webdev@protonmail.com">webdev@protonmail.com</a>
+              <a href="mailto:test@test.com">test@test.com</a>
             </p>
           </li>
         </ul>
